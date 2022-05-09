@@ -10,128 +10,72 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
-  duration: 2000 // Set animation duration as per your animation
+  duration: 1000 // Set animation duration as per your animation
 };
 
 // Summary And Greeting Section
 
 const illustration = {
-  animated: true // Set to false to use static SVG
+  animated: true 
 };
 
 const greeting = {
-  username: "KM Development",
-  title: "Hallo, ik ben Kars",
+  username: "Susan Meesters",
+  title: "Hallo, ik ben Susan",
   subTitle: emoji(
-    "Een gedreven Full Stack Software developer 🚀 met erg veel ervaring van het bouwen van Web en Mobile apps in PHP (Laravel) / JavaScript / Nodejs / VueJS en nog een hoop andere frameworks. Als ik niet achter een computer op de knoppen druk doe ik dit in een nachtclub of op een festival als freelance lightjockey of technicus."
+    "Toen ik 3 jaar oud was werd mijn broertje marijn geboren. Alles leek in orde tot hij een epileptische aanval kreeg. Hier kwam hij niet uit. Marijn belandde hierdoor dus ook in het ziekenhuis. Gelukkig kreeg Marijn nog een kans, echter was dit helaas niet zonder letsel. Marijn kreeg hersenletsen (cerebrale parese) wat zorgde voor een meervoudige beperking. Marijn heeft bij alledaagse dingen hulp en ondersteuning nodig. Dit heb ik, samen met mijn ouders en zus, dus ook altijd voor Marijn gedaan.\nDoor de jaren heen heb ik door deze situatie veel met zorg- en hulpverlening te maken gehad en heb ik geleerd hoe belangrijk de rol van hulpverleners kunnen zijn voor mensen. Ik zag bij de hulpverleners enthousiasme, voldoening en vooral veel liefde naar de medemens.\nToen wist ik het zeker: dit wil ik ook! Ik ga mensen helpen. Ik ga de zorg in! 🚀 Dat ik mensen wou helpen stond voor mij vast. Maar waar lag dan mijn interesse? In de psychiatrie! Mijn interesse in de psychiatrie is gewerkt door mijn stage plek op de medisch psychiatrische unit in het Twee Steden Ziekenhuis in Tilburg. Hier leerde ik de mensen kennen die last hadden van hun psychische kwetsbaarheid. Mijn interesse in de oorzaak hiervan werd geprikkeld."
   ),
   resumeLink:
-    "#", // Set to empty to hide the button
-  displayGreeting: true // Set false to hide this section, defaults to true
+    "#", 
+  displayGreeting: true 
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/itsclassified",
-  linkedin: "https://www.linkedin.com/in/karsmiesen/",
-  gmail: "miesenkars@gmail.com",
-  gitlab: "https://gitlab.com/itsclassifiedx",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  // Instagram, Twitter and Kaggle are also supported in the links!
-  // To customize icons and social links, tweak src/components/SocialMedia
+  linkedin: "#",
+  gmail: "susanmeesters@gmail.com",
+  facebook: "#",
+  instagram: "#",
   display: true // Set true to display this section, defaults to false
 };
 
 // Skills Section
 
 const skillsSection = {
-  title: "Fullstack Webdeveloper!",
-  subTitle: "Continue verdiepen in de nieuwste frameworks en technieken!",
+  title: "Een tweede kans",
+  subTitle: "Mensen zijn niet perfect. Soms gaat er iets mis. Ik sta honder procent achter het feit dat iedereen een tweede kans verdient. Iedereen verdient een plek in onze maatschappij.",
   skills: [
     emoji(
-      "⚡ Een interactieve Web/Mobile App van frontend tot backend?"
+      "Sommige hebben daar extra ondersteuning bij nodig, die kunnen het niet alleen. Deze mensen wil ik graag helpen. Ik wil ze ondersteunen om te leren omgaan met hun diagnose en te werken aan herstel en terugkeer in de maatschappij."
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) voor elk platform?")
+    emoji("Ik vind het ontzettend belangrijk om te werken vanuit de krachten van een cliënt. Woorden als empowerment en zelfredzaamheid staan hoog in het vaandel. Ik denk dat het welzijn van die cliënt op deze manier wordt vergroot. Daarnaast zorgt dit voor een verhoogd zelfvertrouwen en leren ze sneller om dingen zelf aan te pakken.")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "PHP",
-      fontAwesomeClassname: "fab fa-php"
-    },
-    {
-      skillName: "Laravel",
-      fontAwesomeClassname: "fab fa-laravel"
-    },
-    {
-      skillName: "Tailwind CSS",
-      fontAwesomeClassname: "fa-solid fa-file-code"
-    },
-    {
-      skillName: "HTML-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "CSS3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "SQL-Database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "Firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "Docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+    
   ],
   display: true // Set false to hide this section, defaults to true
 };
 
 const skillsSectionR = {
-  title: "Lightjockey / Technicus",
-  subTitle: "Passie voor licht en special effects!",
+  title: "Wie ben ik dan?",
+  subTitle: "Maar wie ben ik dan als sociaal werker?",
   skills: [
     emoji(
-      "⚡ Opbouwen van evenementen en uitdenken van stages"
+      "Als ik deze vraag zou stellen aan mijn collega's op de werkvloer zal je te horen krijgen dat mijn krachten liggen bij de rust bewaren, dit ik écht luister naar de cliënten wat zij willen en dat ik durf te ondernemen en te handelen."
     ),
-    emoji("⚡ Programmeren van lichttafels en special effects"),
-    emoji(
-      "⚡ Bedienen van lichttafels tijdens evenementen"
-    )
+    emoji("Ik wil mijzelf echt neerzetetn als een sociaal werker die naast de cliënt staat. Iemand die er voor de cliënt is in de moeilijkste periode van zijn/haar leven. Ik wil een glimlach op het gezicht 😃"),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "Grand MA 3/2",
-      fontAwesomeClassname: "fa-solid fa-keyboard"
-    },
-    {
-      skillName: "Grand MA On PC",
-      fontAwesomeClassname: "fa-solid fa-desktop"
-    },
-    {
-      skillName: "Chimp 300",
-      fontAwesomeClassname: "fa-solid fa-keyboard"
-    },
-    {
-      skillName: "Special Effects",
-      fontAwesomeClassname: "fa-solid fa-fire-burner"
-    }
+    
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -142,11 +86,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Avans Hogeschool",
+      schoolName: "Avans Hogeschool Breda",
       logo: require("./assets/images/avanspng.png"),
-      subHeader: "HBO Informatica",
-      duration: "September 2017 - April 2022",
-      desc: "Niet afgemaakt, wel P behaald.",
+      subHeader: "Sociale work, uitstroomprofiel zorg",
+      duration: "2018 - Heden",
     },
   ]
 };
@@ -154,7 +97,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Tailwind CSS: Frontend UI/Design", 
@@ -183,7 +126,7 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Webdeveloper",
@@ -376,9 +319,9 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Stuur mij een berichtje! ☎️"),
   subtitle:
-    "Heb je een opdracht of wil je meer informatie? Alles is welkom.",
-  number: "+316 25 20 12 15",
-  email_address: "karsmiesen@ziggo.nl"
+    "Wil je graag meer over mij weten, of gewoon even een praatje maken? Stuur mij dan zeker een berichtje!",
+  number: "+316 12 34 56 78",
+  email_address: "susanmeesters@hotmail.com"
 };
 
 // Twitter Section

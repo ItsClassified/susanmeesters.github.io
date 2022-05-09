@@ -40,6 +40,13 @@ export default function Greeting() {
               <SocialMedia />
               <div className="button-greeting-div">
                 <Button text="Stuur mij een berichtje" href="#contact" />
+                  {greeting.resumeLink && (
+                    <Button
+                      text="Bekijk mijn CV"
+                      newTab={true}
+                      href={greeting.resumeLink}
+                    />
+                  )}
               </div>
             </div>
           </div>
