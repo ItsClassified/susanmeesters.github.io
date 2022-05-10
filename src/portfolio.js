@@ -22,8 +22,23 @@ const illustration = {
 const greeting = {
 username: "Susan Meesters",
   title: "Passie voor het vak",
-  subTitle: 
-    "Mensen zijn niet perfect. Soms gaat er iets mis. \n\n Ik sta honderd procent achter het feit dat iedereen een tweede kans verdient. Iedereen verdient een plek in onze maatschappij. Sommige hebben daar extra ondersteuning bij nodig, die kunnen het niet alleen. Deze mensen wil ik graag helpen. Ik wil ze ondersteunen om te leren omgaan met hun diagnose en te werken aan herstel en terugkeer in de maatschappij. \n Ik vind het ontzettend belangrijk om te werken vanuit de krachten van een cliënt. Woorden als empowerment en zelfredzaamheid staan hoog in het vaandel. Ik denk dat het welzijn van de cliënt op deze manier wordt vergroot. Daarnaast zorgt dit voor een verhoogd zelfvertrouwen en leren ze sneller om dingen zelf aan te pakken. \n Maar wie ben ik dan als sociaal werker? \n Als ik deze vraag zou stellen aan mijn collega's op de werkvloer zal je te horen krijgen dat mijn krachten liggen bij de rust bewaren, dat ik écht luister naar de cliënten naar wat zij willen en dat ik durf te ondernemen en handelen. \n Ik wil mijzelf echt neerzetten als een sociaal werker die naast de cliënt staat. Iemand die er voor de cliënt is in de moeilijkste periode van zijn of haar leven. Ik wil een glimlach op het gezicht brengen."
+  subTitle1: 
+    "Mensen zijn niet perfect. Soms gaat er iets mis. "
+  ,
+  subTitle2: 
+    "Ik sta honderd procent achter het feit dat iedereen een tweede kans verdient. Iedereen verdient een plek in onze maatschappij. Sommige hebben daar extra ondersteuning bij nodig, die kunnen het niet alleen. Deze mensen wil ik graag helpen. Ik wil ze ondersteunen om te leren omgaan met hun diagnose en te werken aan herstel en terugkeer in de maatschappij."
+  ,
+  subTitle3: 
+    "Ik vind het ontzettend belangrijk om te werken vanuit de krachten van een cliënt. Woorden als empowerment en zelfredzaamheid staan hoog in het vaandel. Ik denk dat het welzijn van de cliënt op deze manier wordt vergroot. Daarnaast zorgt dit voor een verhoogd zelfvertrouwen en leren ze sneller om dingen zelf aan te pakken."
+  ,
+  subTitle4: 
+    "Maar wie ben ik dan als sociaal werker?"
+  ,
+  subTitle5: 
+    "Als ik deze vraag zou stellen aan mijn collega's op de werkvloer zal je te horen krijgen dat mijn krachten liggen bij de rust bewaren, dat ik écht luister naar de cliënten naar wat zij willen en dat ik durf te ondernemen en handelen."
+  ,
+  subTitle6: 
+    "Ik wil mijzelf echt neerzetten als een sociaal werker die naast de cliënt staat. Iemand die er voor de cliënt is in de moeilijkste periode van zijn of haar leven. Ik wil een glimlach op het gezicht brengen."
   ,
   resumeLink:
     "https://drive.google.com/file/d/1K9-znGQkf8UWK2862Jme3w9XP91Kb9bL/view?usp=sharing", 

@@ -35,8 +35,14 @@ export default function Greeting() {
                     : "greeting-text-p subTitle"
                 }
               >
-                {greeting.subTitle}
+                {greeting.subTitle1} <br /><br />
+                {greeting.subTitle2} <br /><br />
+                {greeting.subTitle3} <br /><br />
+                <b>{greeting.subTitle4}</b> <br /><br />
+                {greeting.subTitle5} <br /><br />
+                {greeting.subTitle6} 
               </p>
+              
               <SocialMedia />
               <div className="button-greeting-div">
                 <Button text="Stuur mij een berichtje" href="#contact" />
