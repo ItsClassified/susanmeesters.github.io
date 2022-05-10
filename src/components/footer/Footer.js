@@ -10,10 +10,10 @@ export default function Footer() {
     <Fade bottom duration={1000} distance="5px">
       <div className="footer-div">
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          {emoji("KM Development")} - Algemenen voorwaarden
+          {emoji("Susan Meesters")} - 2022
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          KVK: 72360003 - BTW Nummer: NL002404008B45
+          smeesters@ribwbrabant.nl 
         </p>
       </div>
     </Fade>
