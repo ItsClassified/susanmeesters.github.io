@@ -26,7 +26,7 @@ username: "Susan Meesters",
     "Mensen zijn niet perfect. Soms gaat er iets mis. "
   ,
   subTitle2: 
-    "Ik sta honderd procent achter het feit dat iedereen een tweede kans verdient. Iedereen verdient een plek in onze maatschappij. Sommige hebben daar extra ondersteuning bij nodig, die kunnen het niet alleen. Deze mensen wil ik graag helpen. Ik wil ze ondersteunen om te leren omgaan met hun diagnose en te werken aan herstel en terugkeer in de maatschappij."
+    "Ik sta honderd procent achter het feit dat iedereen een tweede kans verdient. Iedereen verdient een plek in onze maatschappij. Sommige hebben daar extra ondersteuning bij nodig, die kunnen het niet alleen. Deze mensen wil ik graag helpen. Ik wil ze ondersteunen om te leren omgaan met hun diagnose en te werken aan herstel en terugkeer in de maatschappij. Het kunnen werken aan doelen vind ik daarbij prettig."
   ,
   subTitle3: 
     "Ik vind het ontzettend belangrijk om te werken vanuit de krachten van een cliënt. Woorden als empowerment en zelfredzaamheid staan hoog in het vaandel. Ik denk dat het welzijn van de cliënt op deze manier wordt vergroot. Daarnaast zorgt dit voor een verhoogd zelfvertrouwen en leren ze sneller om dingen zelf aan te pakken."
@@ -35,10 +35,10 @@ username: "Susan Meesters",
     "Maar wie ben ik dan als sociaal werker?"
   ,
   subTitle5: 
-    "Als ik deze vraag zou stellen aan mijn collega's op de werkvloer zal je te horen krijgen dat mijn krachten liggen bij de rust bewaren, dat ik écht luister naar de cliënten naar wat zij willen en dat ik durf te ondernemen en handelen."
+    "Als je deze vraag zou stellen aan mijn collega's op de werkvloer zal je te horen krijgen dat mijn krachten liggen bij de rust bewaren, dat ik écht luister naar de cliënten, kijk naar wat zij willen en dat ik durf te ondernemen en handelen. Ik signaleer, ik overleg en ik werk samen."
   ,
   subTitle6: 
-    "Ik wil mijzelf echt neerzetten als een sociaal werker die naast de cliënt staat. Iemand die er voor de cliënt is in de moeilijkste periode van zijn of haar leven. Ik wil een glimlach op het gezicht brengen."
+    "Ik wil mijzelf neerzetten als een sociaal werker die naast de cliënt staat. Iemand die er voor de cliënt is in de moeilijkste periode van zijn of haar leven. Ik wil een glimlach op het gezicht brengen."
   ,
   resumeLink:
     "https://drive.google.com/file/d/1K9-znGQkf8UWK2862Jme3w9XP91Kb9bL/view?usp=sharing", 
@@ -59,7 +59,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "De aanleiding",
-  subTitle: "Toen ik 3 jaar oud was werd mijn broertje marijn geboren. Alles leek in orde tot hij een epileptische aanval kreeg. Hier kwam hij niet uit. Marijn belandde hierdoor dus ook in het ziekenhuis. Gelukkig kreeg Marijn nog een kans, echter was dit helaas niet zonder letsel. Marijn had herstenletsel (cerebrale parese) wat zorgde voor een meervoudige beperking. Marijn heeft bij alledaagse dingen hulp en ondersteuning nodig. Dit heb ik, samen met mijn ouders en zus, dus ook altijd voor Marijn gedaan.",
+  subTitle: "Toen ik 3 jaar oud was werd mijn broertje Marijn geboren. Alles leek in orde tot hij een epileptische aanval kreeg. Hier kwam hij niet uit. Marijn lag in kritieke toestand in het ziekenhuis. Gelukkig kreeg Marijn nog een kans, echter was dit helaas niet zonder letsel. Marijn had herstenletsel (cerebrale parese) wat zorgde voor een meervoudige beperking. Marijn heeft bij alledaagse dingen hulp en ondersteuning nodig. Dit heb ik, samen met mijn ouders en zus, dus ook altijd voor Marijn gedaan. Zorgen is iets wat in mij zit.",
   skills: [
     emoji(
       "Door de jaren heen heb ik door deze situatie veel met zorg- en hulpverlening te maken gehad en heb ik geleerd hoe belangrijk de rol van hulpverleners kunnen zijn voor mensen. Ik zag bij de hulpverleners enthousiasme, voldoening en vooral veel liefde naar de medemens."
@@ -78,12 +78,12 @@ https://fontawesome.com/icons?d=gallery */
 
 const skillsSectionR = {
   title: "De psychiatrie",
-  subTitle: "Dat ik in de zorg wou werken was zeker. Maar met welke doelgroep?",
+  subTitle: "Dat ik in de zorg wilde werken was zeker. Maar met welke doelgroep?",
   skills: [
     emoji(
       "Mijn interesse in de psychatrie werd geprikkeld door mijn stage plek op de medisch psychiatrische unit in het Twee Steden ziekenhuis. Hier heb ik mensen ontmoet die in het dagelijks leven veel last ervaren van hun psychische kwetsbaarheid. De oorzaak van deze kwetsbaarheid sprak mij aan, waar komt dit vandaan? En hoe kunnen we er samen voor zorgen dat je ondanks deze kwetsbaarheid kan meefunctioneren in onze maatschappij? "
     ),
-    emoji("Deze interesse leidde mij naar mijn huidige werkplek bij RIBW Brabant. 😃"),
+    emoji("Deze interesse leidde mij naar mijn huidige werkplek bij RIBW Brabant. 😃 Hier heb ik het onwijs naar mij zin en ik ben voorlopig nog niet van plan hier weg te gaan. Bij het RIBW werken wij deels ambulant. De ontwikkelingen en verschuivingen van intramuraal werken naar ambulant spreken mij aan."),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon

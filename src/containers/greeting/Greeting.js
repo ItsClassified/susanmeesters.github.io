@@ -46,24 +46,21 @@ export default function Greeting() {
               <SocialMedia />
               <div className="button-greeting-div">
                 <Button text="Stuur mij een berichtje" href="#contact" />
-                  {greeting.resumeLink && (
-                    <Button
-                      text="Bekijk mijn CV"
-                      newTab={true}
-                      href={greeting.resumeLink}
-                    />
-                  )}
               </div>
             </div>
           </div>
           <div className="greeting-image-div">
             {illustration.animated ? (
-              <DisplayLottie animationData={landingPerson} />
+              <img
+              alt="man sitting on table"
+              src={require("../../assets/images/manOnTable.svg")}
+            ></img>
             ) : (
               <img
                 alt="man sitting on table"
                 src={require("../../assets/images/manOnTable.svg")}
               ></img>
+              
             )}
           </div>
         </div>
