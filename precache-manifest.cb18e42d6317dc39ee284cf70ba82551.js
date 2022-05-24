@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7afd00c1a5bdea962ecc86239d1e99f6",
+    "revision": "6e70d2e9da1c0d43d3353d5fd476d103",
     "url": "/index.html"
   },
   {
-    "revision": "3ece522037512a6cce8d",
+    "revision": "2d5e529dcf38c3ef822d",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "1a432de48655eb68033a",
+    "revision": "a60beb9fab9f8257b4d1",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "140d930129dada604d48",
+    "revision": "d888edb39f3ff0c8bb02",
     "url": "/static/css/main.1a6005f5.chunk.css"
   },
   {
-    "revision": "4ab1891f594db57c5041",
-    "url": "/static/js/2.7549781b.chunk.js"
+    "revision": "c192f253ca5dcf315b6d",
+    "url": "/static/js/2.ec6409f0.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.7549781b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ec6409f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ece522037512a6cce8d",
-    "url": "/static/js/3.51732b51.chunk.js"
+    "revision": "2d5e529dcf38c3ef822d",
+    "url": "/static/js/3.3f3b7b09.chunk.js"
   },
   {
-    "revision": "1a432de48655eb68033a",
-    "url": "/static/js/4.ae6e0960.chunk.js"
+    "revision": "a60beb9fab9f8257b4d1",
+    "url": "/static/js/4.c8498dc7.chunk.js"
   },
   {
-    "revision": "140d930129dada604d48",
-    "url": "/static/js/main.5fb8c75b.chunk.js"
+    "revision": "d888edb39f3ff0c8bb02",
+    "url": "/static/js/main.04a79811.chunk.js"
   },
   {
-    "revision": "d628b8749e66ff0f0abc",
-    "url": "/static/js/runtime-main.c0c8cf07.js"
+    "revision": "000c244c2e6e6ae6550c",
+    "url": "/static/js/runtime-main.8842b5a0.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
   {
-    "revision": "59389695208d7454c6607bed51ed4316",
-    "url": "/static/media/developerActivity.59389695.svg"
+    "revision": "23a24cea1d8f697124338040cfb0d004",
+    "url": "/static/media/developerActivity.23a24cea.svg"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
-    "url": "/static/media/manOnTable.52be3144.svg"
+    "revision": "ec9ed7d58786002cfe58fd97eaef3b34",
+    "url": "/static/media/manOnTable.ec9ed7d5.svg"
   },
   {
     "revision": "50c81eff317ec88dc05c8f4a3b209708",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
-    "revision": "3440939881da8339d1597e8d77cdf850",
-    "url": "/static/media/skill.34409398.svg"
+    "revision": "23a24cea1d8f697124338040cfb0d004",
+    "url": "/static/media/skill.23a24cea.svg"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
